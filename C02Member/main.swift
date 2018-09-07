@@ -57,7 +57,7 @@ var y:Float = 0.02
 print(x,y)
 x = x + Double(i)//类型强制转换
 print(x)
-//3.bool类型
+//3.bool布尔
 var isNew:Bool = true
 if isNew{
 print(isNew)
